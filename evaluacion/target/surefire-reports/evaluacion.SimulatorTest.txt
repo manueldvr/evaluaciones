@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: evaluacion.SimulatorTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.012 sec <<< FAILURE!
+evaluacion.SimulatorTest.testCaseMAXcalls()  Time elapsed: 0.009 sec  <<< FAILURE!
+java.lang.Error: Unresolved compilation problem: 
+	Test is not an annotation type
+
+	at evaluacion.SimulatorTest.testCaseMAXcalls(SimulatorTest.java:16)
+
